@@ -1,0 +1,13 @@
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\bin\Debug\netcoreapp3.1\New folder.exe
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\bin\Debug\netcoreapp3.1\New folder.deps.json
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\bin\Debug\netcoreapp3.1\New folder.runtimeconfig.json
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\bin\Debug\netcoreapp3.1\New folder.runtimeconfig.dev.json
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\bin\Debug\netcoreapp3.1\New folder.dll
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\bin\Debug\netcoreapp3.1\New folder.pdb
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\obj\Debug\netcoreapp3.1\New folder.csprojAssemblyReference.cache
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\obj\Debug\netcoreapp3.1\New folder.AssemblyInfoInputs.cache
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\obj\Debug\netcoreapp3.1\New folder.AssemblyInfo.cs
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\obj\Debug\netcoreapp3.1\New folder.csproj.CoreCompileInputs.cache
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\obj\Debug\netcoreapp3.1\New folder.dll
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\obj\Debug\netcoreapp3.1\New folder.pdb
+D:\project files\GITHUB REPOS\Softwares\Calc\Calculator-C-\New folder\obj\Debug\netcoreapp3.1\New folder.genruntimeconfig.cache
